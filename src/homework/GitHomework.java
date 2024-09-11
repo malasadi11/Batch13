@@ -10,6 +10,9 @@ public class GitHomework {
 	}
 		
 		public static void add( int a, int b) {
+			int a = 0;
+			int b = 3;
+			int c = 4; 
 			System.out.println(a+b);
 		}
 		static void muna( char a) {
