@@ -16,7 +16,10 @@ public class GitHomework {
 			System.out.println(a+b);
 		}
 		static void muna( char a) {
-			
+			char a ='a'; 
+			char b = 'b'
+			char c = 'c'
+				// this is coming from GitHub
 			System.out.println(a);
 		}
 
