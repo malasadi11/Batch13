@@ -13,6 +13,10 @@ public class GitHomework {
 			System.out.println(a);
 		}
 
+	public void main( int a) {
+		
+		System.out.println(a);
+	}
 	}
 
 
